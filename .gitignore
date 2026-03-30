@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Conda / virtual environments
+.env
+*.env
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Sensitive config
+secrets.py
+config.py
+
+# Large data files — we don't push raw data to GitHub
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Trained model files — regeneratable from code
+ml_model/*.pkl
+ml_model/*.joblib
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
