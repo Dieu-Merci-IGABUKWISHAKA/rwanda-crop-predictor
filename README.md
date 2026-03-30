@@ -71,5 +71,5 @@ rwanda-crop-predictor/
 - [ ] Phase 6 — Deployment + portfolio
 
 ## Author
-**Dieu Merci IGABUKWISHAKA** — Year 3 Electrical Power Engineering, University of Rwanda
+**Dieu Merci IGABUKWISHAKA** — Year 3 Electrical Power Engineering, University of Rwanda and
 Data Science student at ALX Africa
