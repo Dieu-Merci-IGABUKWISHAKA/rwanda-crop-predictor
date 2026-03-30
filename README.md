@@ -46,7 +46,7 @@ data-driven predictions so they can plan better and earn more.
 | Deployment | Render.com |
 
 ## Project Structure
-\```
+```
 rwanda-crop-predictor/
 ├── data/              # Raw datasets (not tracked by git)
 ├── notebooks/         # Jupyter EDA notebooks
@@ -54,7 +54,7 @@ rwanda-crop-predictor/
 ├── django_app/        # Django web application
 ├── requirements.txt   # All Python dependencies
 └── README.md          # Project documentation
-\```
+```
 
 ## Dataset Sources
 - FAO FAOSTAT — crop yield data per country (free CSV download)
